@@ -1,5 +1,4 @@
 # dir-montor
-dir montor
 
 use:
 
